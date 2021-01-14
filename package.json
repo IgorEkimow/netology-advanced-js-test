@@ -1,0 +1,29 @@
+{
+  "name": "netology-advanced-js-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorEkimow/netology-advanced-js-test.git"
+  },
+  "author": "Igor Ekimow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorEkimow/netology-advanced-js-test/issues"
+  },
+  "homepage": "https://github.com/IgorEkimow/netology-advanced-js-test#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "core-js": "^3.8.2"
+  }
+}
